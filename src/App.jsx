@@ -11,7 +11,7 @@ function App() {
    
   const produtos = [
   { 
-    nome: "iDFace Max", 
+    nome: "iDFace Max Premium", 
     desc: "Reconhecimento Facial de Alta Velocidade e Precisão", 
     img: "./img/idface.webp" 
   },
