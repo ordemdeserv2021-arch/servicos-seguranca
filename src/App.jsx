@@ -21,7 +21,7 @@ function App() {
     img: "./img/idface-frontal.webp" 
   },
   { 
-    nome: "iDbell", 
+    nome: "iDBell", 
     desc: "Controlador de video e interfonia Profissional", 
     img: "./img/idbell-list.webp" 
   },
@@ -36,7 +36,7 @@ function App() {
     img: "./img/iCSee-A8.webp" 
   },
   { 
-    nome: "IDLok", 
+    nome: "iDLok", 
     desc: "Fechaduras ", 
     img: "./img/idlock-frente.webp" 
   },
