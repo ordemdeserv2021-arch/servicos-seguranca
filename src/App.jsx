@@ -11,14 +11,44 @@ function App() {
    
   const produtos = [
   { 
-    nome: "iDFace", 
+    nome: "iDFace Max", 
     desc: "Reconhecimento Facial de Alta Velocidade e Precisão", 
     img: "./img/idface.webp" 
   },
   { 
     nome: "iDAccess", 
     desc: "Controle de Acesso Biométrico e Proximidade Profissional", 
-    img: "./img/idaccess.webp" 
+    img: "./img/idface-frontal.webp" 
+  },
+  { 
+    nome: "iDbell", 
+    desc: "Controlador de video e interfonia Profissional", 
+    img: "./img/idbell-list.webp" 
+  },
+  { 
+    nome: "Câmeras de Segurança", 
+    desc: "Monitoramento Dentro e fora de Casa", 
+    img: "./img/Dvr intelbras-600x600.png" 
+  },
+  { 
+    nome: "Câmeras de Segurança", 
+    desc: "Solução que cabe no seu bolso", 
+    img: "./img/iCSee-A8.webp" 
+  },
+  { 
+    nome: "IDLok", 
+    desc: "Fechaduras ", 
+    img: "./img/idlock-frente.webp" 
+  },
+  { 
+    nome: "Catraca iDBlock Next", 
+    desc: "soluções completas para seu Comdominio e Academias ", 
+    img: "./img/idblock-next-com-idface.webp" 
+  },
+  {
+  nome: "Catraca iDBlock Next", 
+    desc: "soluções completas para seu Comdominio e Academias ", 
+    img: "./img/idblock-next-sem-idface.webp" 
   },
 ];
   
