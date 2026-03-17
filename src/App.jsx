@@ -11,7 +11,7 @@ function App() {
    
   const produtos = [
   { 
-    nome: "iDFace Max", 
+    nome: "iDFace Max Premium", 
     desc: "Reconhecimento Facial de Alta Velocidade e Precisão", 
     img: "./img/idface.webp" 
   },
@@ -42,7 +42,7 @@ function App() {
   },
   { 
     nome: "Catraca iDBlock Next", 
-    desc: "soluções completas para seu Comdominio e Academias ", 
+    desc: "soluções completas para seu Condominio e Academias ", 
     img: "./img/idblock-next-com-idface.webp" 
   },
   {
