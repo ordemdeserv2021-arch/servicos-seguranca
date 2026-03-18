@@ -47,7 +47,7 @@ function App() {
   },
   {
   nome: "Catraca iDBlock Next", 
-    desc: "soluções completas para seu Comdominio e Academias ", 
+    desc: "soluções completas para seu Condominio e Academias ", 
     img: "./img/idblock-next-sem-idface.webp" 
   },
 ];
